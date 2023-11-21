@@ -1,4 +1,4 @@
-SELECT
+-- ! SELECT
 
 -- 1- Selezionare tutte le software house americane (3)
 SELECT *
